@@ -1,0 +1,4 @@
+# ignore python files, this is a recipe book
+*.py
+# ignore compiled python files too
+*.pyc
